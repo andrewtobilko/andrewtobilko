@@ -1,4 +1,4 @@
-Hi, I am Andrew, a developer of [Settie](https://settie.app) - a fast, feature-rich, Apple-native training platform.
+Hi, I am Andrew, a developer of [Settie](https://settie.app) - an aspirationally beautiful, fast, feature-rich, Apple-native training platform.
 
 I have been building it with love and all the skill I can muster.
 
