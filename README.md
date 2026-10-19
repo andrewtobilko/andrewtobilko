@@ -1,7 +1,9 @@
 Hi, I am Andrew, a developer of [Settie](https://settie.app) - an aspirationally beautiful, private, fast, feature-rich, Apple-native training platform.
 
 <p align="center">
-  <img src="assets/settie-your-training-ontology.png" alt="Settie, Your Training Ontology" width="800">
+  <a href="https://apps.apple.com/us/app/settie/id6757132732">
+    <img src="assets/settie-your-training-ontology.png" alt="Settie, Your Training Ontology" width="800">
+  </a>
 </p>
 
 I have been building it with love and all the skill I can muster.
